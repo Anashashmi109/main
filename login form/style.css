@@ -1,0 +1,24 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.footer {
+    background-color: rgb(50, 50, 50 );
+    color: white;
+}
+.main{
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+}
+.sub {
+    width: 300px;
+    display: inline-block: ;
+    
+}
+.socialIcon {
+    width: 20px;
+}
+.socialIcon img{
+    width: 25px;
+}
